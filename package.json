@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-qunar",
+  "version": "0.0.2",
+  "description": "Qunar's ESLint config, following our styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongzhi107/eslint-config-qunar.git"
+  },
+  "keywords": [
+    "eslint",
+    "qunar"
+  ],
+  "author": "zhongzhi <zhong.zhi@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongzhi107/eslint-config-qunar/issues"
+  },
+  "homepage": "https://github.com/zhongzhi107/eslint-config-qunar#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^13.0.0"
+  }
+}
