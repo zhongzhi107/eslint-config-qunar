@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Qunar's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/zhongzhi107/eslint-config-qunar#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^13.0.0"
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0"
   }
 }
