@@ -1,6 +1,6 @@
 module.exports = {
-  "extends": [ './base', 'eslint-config-airbnb' ].map(require.resolve),
-  "plugins": [
+  extends: [ 'eslint-config-airbnb', './base' ].map(require.resolve),
+  plugins: [
     "react", "import"
   ],
 };
