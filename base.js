@@ -22,6 +22,7 @@ module.exports = {
     "no-alert": 0,
     "no-console": 0,
     "no-param-reassign": 0,
+    "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
     "no-warning-comments": 2,
     "semi": 2
   },
