@@ -4,7 +4,8 @@
   "description": "Qunar's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "standard-version && npm publish",
+    "postrelease": "git push && git push origin --tags"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,6 @@
   },
   "homepage": "https://github.com/zhongzhi107/eslint-config-qunar#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^14.1.0"
+    "eslint-config-airbnb": "^15.0.1"
   }
 }
