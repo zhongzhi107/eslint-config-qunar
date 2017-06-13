@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Qunar's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
