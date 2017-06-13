@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/zhongzhi107/eslint-config-qunar#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^15.0.1"
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint": "^3.15.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2 || ^4.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.9.0"
   }
 }
