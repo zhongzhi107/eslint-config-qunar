@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Qunar's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,5 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-react": "^7.5.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
