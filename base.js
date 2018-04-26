@@ -13,7 +13,7 @@ module.exports = {
     "import/no-duplicates": 0,
     "import/named": 0,
     "import/namespace": 0,
-    "import/no-unresolved": 0,
+    "import/no-unresolved": [2, { caseSensitive: true }],
     "import/no-extraneous-dependencies": 0,
     "class-methods-use-this": 0,
     "comma-dangle": [2, "never"],
