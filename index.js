@@ -5,6 +5,7 @@ module.exports = {
     mocha: true
   },
   rules: {
+    'react/destructuring-assignment': 0,
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
     'no-var': 0,
     'global-require': 0,
