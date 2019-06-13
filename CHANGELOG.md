@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.1.0"></a>
+# [5.1.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v3.0.0...v5.1.0) (2019-06-13)
+
+
+### Bug Fixes
+
+* [ESLINT_LEGACY_OBJECT_REST_SPREAD] DeprecationWarning: The 'parserOptions.ecmaFeatures.experimentalObjectRestSpread' option is deprecated. Use 'parserOptions.ecmaVersion' instead. [#1](https://github.com/zhongzhi107/eslint-config-qunar/issues/1) ([688f116](https://github.com/zhongzhi107/eslint-config-qunar/commit/688f116))
+* 允许使用旧的装饰器语法 ([84d75e7](https://github.com/zhongzhi107/eslint-config-qunar/commit/84d75e7))
+
+
+### Features
+
+* 禁用 `react/destructuring-assignment` ([482c04b](https://github.com/zhongzhi107/eslint-config-qunar/commit/482c04b))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v1.2.1...v3.0.0) (2018-04-26)
 
