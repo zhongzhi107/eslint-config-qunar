@@ -24,14 +24,14 @@ module.exports = {
     'import/no-extraneous-dependencies': 0,
     'class-methods-use-this': 0,
     'comma-dangle': [2, 'never'],
-    'complexity': ['error', { 'max': 10 }],
-    'indent': [2, 2, {'SwitchCase': 1}],
+    complexity: 0,
+    indent: [2, 2, { SwitchCase: 1 }],
     'no-alert': 0,
     'no-console': 0,
     'no-param-reassign': 0,
     'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
     'no-warning-comments': 2,
-    'semi': 2
+    semi: 2
   },
   plugins: ['import'],
   settings: {
