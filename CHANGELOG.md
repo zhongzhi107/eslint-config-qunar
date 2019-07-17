@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.2.0"></a>
+# [5.2.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v5.1.0...v5.2.0) (2019-07-17)
+
+
+### Features
+
+* 禁用 `no-warning-comments` 规则 ([2999ef2](https://github.com/zhongzhi107/eslint-config-qunar/commit/2999ef2))
+* 禁用函数复杂度检查规则 `complexity` ([18120ce](https://github.com/zhongzhi107/eslint-config-qunar/commit/18120ce))
+
+
+
 <a name="5.1.0"></a>
 # [5.1.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v3.0.0...v5.1.0) (2019-06-13)
 
