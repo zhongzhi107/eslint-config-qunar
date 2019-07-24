@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="6.0.0"></a>
+# [6.0.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v5.2.0...v6.0.0) (2019-07-24)
+
+
+### Features
+
+* 增加 `eslint-plugin-filenames` 对文件名做校验 ([c2b407b](https://github.com/zhongzhi107/eslint-config-qunar/commit/c2b407b))
+* **rules:** 启用 `no-var` ([bc64c4e](https://github.com/zhongzhi107/eslint-config-qunar/commit/bc64c4e))
+* 增加 typescript 规则文件 ([ba4ec79](https://github.com/zhongzhi107/eslint-config-qunar/commit/ba4ec79))
+
+
+
 <a name="5.2.0"></a>
 # [5.2.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v5.1.0...v5.2.0) (2019-07-17)
 
