@@ -1,3 +1,7 @@
+// eslint-disable-next-line
+const original = JSON.parse(process.env.npm_config_argv).original;
+const sourceDir = original.length === 3 ? original[2] : 'src';
+
 module.exports = {
   extends: ['./base'],
   parser: '@typescript-eslint/parser',
@@ -9,7 +13,7 @@ module.exports = {
     'import/resolver': {
       node: {
         extensions: ['.ts'],
-        paths: ['src']
+        paths: [sourceDir]
       }
     }
   },
