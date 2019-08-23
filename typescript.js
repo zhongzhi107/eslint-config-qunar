@@ -21,6 +21,6 @@ module.exports = {
     // 使用 ts 类型时会有问题，先禁用
     'no-unused-vars': 0,
     // 规范文件命名：[a-z.-]
-    'unicorn/filename-case': 2
+    'qunar/filename-case': 2
   }
 };

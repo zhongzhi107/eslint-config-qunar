@@ -15,7 +15,7 @@ module.exports = {
     browser: true,
     node: true
   },
-  plugins: ['import', 'unicorn'],
+  plugins: ['import', 'qunar'],
   settings: {
     'import/parser': 'babel-eslint',
     'import/resolve': {
@@ -46,8 +46,8 @@ module.exports = {
     'no-plusplus': [2, { allowForLoopAfterthoughts: true }],
     'no-warning-comments': 0,
     // 强制 eslint-disable 后必须跟具体规则名称
-    'unicorn/no-abusive-eslint-disable': 2,
+    'qunar/no-abusive-eslint-disable': 2,
     // 强制要求数组长度做比较运算
-    'unicorn/explicit-length-check': 2
+    'qunar/explicit-length-check': 2
   }
 };
