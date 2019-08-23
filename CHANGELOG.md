@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="7.1.0"></a>
+# [7.1.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v7.0.0...v7.1.0) (2019-08-23)
+
+
+### Features
+
+* 使用 qunar 代替 unicorn ([8d75a82](https://github.com/zhongzhi107/eslint-config-qunar/commit/8d75a82))
+
+
+
 <a name="7.0.0"></a>
 # [7.0.0](https://github.com/zhongzhi107/eslint-config-qunar/compare/v6.0.3...v7.0.0) (2019-08-23)
 
