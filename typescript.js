@@ -18,6 +18,7 @@ module.exports = {
     }
   },
   rules: {
-    'no-unused-vars': 0
+    'no-unused-vars': 0,
+    'filenames/match-regex': [2, '^[a-z-.d]+$', true]
   }
 };
